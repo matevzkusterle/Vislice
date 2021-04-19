@@ -2,10 +2,10 @@
 
 ## Avtorji
 
-*Anja Petkovič
+* Anja Petkovič
 
 
-*Matevz Kusterle
+* Matevz Kusterle
 
 ## Opis
 
