@@ -4,7 +4,7 @@
 
 *Anja Petkovič
 
-*Matija Pretnar
+*Adi Smolar
 
 *Matevz Kusterle
 
